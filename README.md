@@ -8,5 +8,17 @@
 
 ## Game Jams
   - Roma Game Jam 2025: I'll Wait - [\[REPO\]](https://github.com/spiderlory/gameJam2025)
+    - Developed a 2D platformer centered on a “wait” mechanic. The game takes place in a slow-moving environment, where the player can use the wait action to accelerate the world while standing still.
+    - Implemented core gameplay systems, including a day-night cycle, player movement and moving platforms that react to the day-night cycle.
+    - Collaborated in a small team under strict time constraints.
+    - Awarded Best Game Design.
   - Global Game Jam 2026: Maskle - [\[REPO\]](https://github.com/spiderlory/Maskle) - [\[itch.io\]](https://97-void.itch.io/maskle)
+    - Designed and developed a puzzle game as a solo developer, handling gameplay programming, system architecture, and UI implementation.
+    - The game consists of applying masks (3x3 filters) to a procedurally generated matrix. The goal is to transform the matrix into a null matrix.
+    - Implemented procedural, parameterized level generation.
+    - Structured the project using the MVPC architectural pattern with emphasis on modularity and separation of concerns.
   - Global Game Jam 2026 Roma: Mascaria - [\[REPO\]](https://github.com/letylet/Ggj2026) - [\[itch.io\]](https://dag7.itch.io/mascaria)
+    - Contributed to gameplay architecture and systems design within a team formed during the jam.
+    - Designed and structured the initial code architecture by defining interfaces and base classes, enabling us to work in parallel and reduce development time.
+    - Provided technical support and implementation guidance throughout development.
+    - Received strong positive feedback from established indie developers attending the event.
