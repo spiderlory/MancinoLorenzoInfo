@@ -7,6 +7,6 @@
   - Unity Programming Design Patterns: Learn Programming Best Practices - GameDevTV - https://github.com/spiderlory/MancinoLorenzoInfo/blob/main/CertificatesOfCompletion/Unity/UnityProgrammingDesignPatterns.pdf
 
 ## Game Jams
-  - Roma Game Jam 2025 - https://github.com/spiderlory/gameJam2025\
-  - Global Game Jam 2026 - https://97-void.itch.io/maskle - https://github.com/spiderlory/Maskle
-  - Global Game Jam 2026 Roma - https://github.com/letylet/Ggj2026
+  - Roma Game Jam 2025 - [\[REPO\]](https://github.com/spiderlory/gameJam2025)
+  - Global Game Jam 2026 - [\[REPO\]](https://github.com/spiderlory/Maskle) - [\[itch.io\]](https://97-void.itch.io/maskle)
+  - Global Game Jam 2026 Roma - [\[REPO\]](https://github.com/letylet/Ggj2026) - [\[itch.io\]](https://dag7.itch.io/mascaria)
