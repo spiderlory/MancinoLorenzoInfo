@@ -1,5 +1,8 @@
 # MancinoLorenzoInfo
+Backend Developer with 2 years of professional experience and a strong academic background in Computer Science.
+Currently transitioning into Game Development, with one year of consistent study and hands-on practice in Unity and C#.
 
+Interested in gameplay programming, systems design, and software architecture applied to games.
 ## Unity:
   - Unity Essentials - Unity Technologies - https://www.credly.com/badges/4619c49e-8435-433d-ab11-41cb7bb66091/public_url
   - Unity Junior Programmer - Unity Technologies - https://www.credly.com/badges/d077f815-0e59-4e2d-ab14-1bb4827f5c1b/public_url
